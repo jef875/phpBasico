@@ -7,4 +7,4 @@ echo "Olá ".$nome.", Você tem ".$idade." anos!<br>";
 echo "<hr>";
 echo "Olá $nome, você tem $idade anos!";
 
-?>
+?> 
